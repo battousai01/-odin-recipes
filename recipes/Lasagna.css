@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+img{
+    display: block; /*display block to use margin  auto to set center position */
+    margin: 0 auto; /* center position*/
+    margin-bottom: 45px;
+    width: 400px;
+    
+}

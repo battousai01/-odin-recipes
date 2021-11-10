@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: burlywood;
+}
+img{
+    display: block;
+    margin:auto;
+    border-radius: 2em;
+}
+body{
+    text-align: center;
+}
+a{
+    font-size: x-large;
+    color:rgb(51, 49, 43);
+}
